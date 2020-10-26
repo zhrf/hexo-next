@@ -3,12 +3,12 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Phantom的个人博客
+title: 鼓楼笔记
 subtitle: ""
-description: ""
-keywords:
+description: "这是一段站点描述"
+keywords: Phantom
 author: Phantom
-language: zh-CN
+language: zh-Hans
 timezone: "Asia/Shanghai"
 
 # URL
