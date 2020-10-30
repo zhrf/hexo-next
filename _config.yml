@@ -5,7 +5,7 @@
 # Site
 title: 鼓楼笔记
 subtitle: ""
-description: "这是一段站点描述"
+description: "没有一刀99，打怪升级的路上砥砺前行"
 keywords: Phantom
 author: Phantom
 language: zh-Hans
@@ -103,4 +103,5 @@ theme: next
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: ""
+  type: "git"
+  repo: https://github.com/zhrf/zhrf.github.io.git
